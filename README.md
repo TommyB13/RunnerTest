@@ -1,3 +1,1 @@
 # RunnerTest
-
-test
