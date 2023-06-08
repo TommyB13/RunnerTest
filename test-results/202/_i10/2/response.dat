@@ -1,0 +1,11 @@
+HTTP/1.1 200 
+Strict-Transport-Security: max-age=3600;includeSubDomains
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+x-dot-server: unknown|6b5632748c
+Set-Cookie: JSESSIONID=D90AC4029AC63990E5A08C892E642E2D; Path=/; Secure; HttpOnly; SameSite=Lax
+Set-Cookie: opvc=ebb66970-0751-4910-8f89-377f0bcbc63b; Path=/; Secure; HttpOnly; SameSite=Lax
+Set-Cookie: sitevisitscookie=1; Max-Age=153792000; Expires=Sat, 22-Apr-2028 15:12:10 GMT; Path=/; Secure; HttpOnly; SameSite=Lax
+
+[...truncated...]

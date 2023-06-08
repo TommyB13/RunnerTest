@@ -1,0 +1,1 @@
+var res = {'data':'HTTP/1.1 200 \x0aStrict-Transport-Security: max-age=3600;includeSubDomains\x0aX-Frame-Options: SAMEORIGIN\x0aX-Content-Type-Options: nosniff\x0aX-XSS-Protection: 1; mode=block\x0ax-dot-server: unknown|6b5632748c\x0aSet-Cookie: JSESSIONID=D90AC4029AC63990E5A08C892E642E2D; Path=/; Secure; HttpOnly; SameSite=Lax\x0a\x0a[...truncated...]\x0a'}

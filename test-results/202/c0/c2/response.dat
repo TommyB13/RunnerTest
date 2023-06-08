@@ -1,0 +1,279 @@
+HTTP/1.1 404 
+Strict-Transport-Security: max-age=3600;includeSubDomains
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+x-dot-server: unknown|6b5632748c
+Cache-Control: max-age=15
+vary: accept-encoding
+Content-Encoding: gzip
+Content-Type: text/html;charset=UTF-8
+Transfer-Encoding: chunked
+Date: Thu, 08 Jun 2023 15:12:26 GMT
+Keep-Alive: timeout=3
+Connection: keep-alive
+
+<!doctype html>
+<html lang="en">
+
+    <head>
+
+        
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, maximum-scale=5.0, user-scalable=1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta charset="utf-8">
+<link rel="icon" href="/application/themes/travel/images/favicon.ico" type="image/x-icon">
+<title>404 Error</title>
+<meta name="description" content="">
+<meta name="language" content="english">
+<meta name="author" content="dotCMS">
+<meta name="copyright" content="dotCMS LLC, Miami Florida, US">
+<meta property="og:title" content="404 Error">
+<meta property="og:url" content="https://demo.dotcms.com/dA/">
+<meta property="og:image" content="/images/default.png">
+<link rel="canonical" href="https://demo.dotcms.com/dA/">
+
+<!-- CSS -->
+<link rel="preload" as="style" href="//fonts.googleapis.com/css?family=Oswald:500,600,700%7CRoboto:300,300i,700%7CCondiment%7CDella+Respira">
+<link rel="preload" as="style" href="/application/themes/travel/css/styles.dotsass">
+<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Oswald:500,600,700%7CRoboto:300,300i,700%7CCondiment%7CDella+Respira">
+<link rel="stylesheet" href="/application/themes/travel/css/styles.dotsass">
+
+</head>
+
+<body id="404-error" >
+
+            <header>
+
+  <!-- RD Navbar-->
+  <div class="rd-navbar-wrap">
+    <nav class="rd-navbar rd-navbar-static rd-navbar-classic" data-layout="rd-navbar-fixed" data-sm-layout="rd-navbar-fixed" data-md-layout="rd-navbar-fixed" data-md-device-layout="rd-navbar-fixed" data-lg-layout="rd-navbar-static" data-lg-device-layout="rd-navbar-static" data-xl-layout="rd-navbar-static" data-xl-device-layout="rd-navbar-static" data-lg-stick-up-offset="78px" data-xl-stick-up-offset="98px" data-xxl-stick-up-offset="118px" data-lg-stick-up="true" data-xl-stick-up="true" data-xxl-stick-up="true">
+      <div class="rd-navbar-collapse-toggle rd-navbar-fixed-element-1" data-rd-navbar-toggle=".rd-navbar-collapse"><span></span></div>
+      
+      <div class="rd-navbar-aside-outer rd-navbar-collapse bg-default">
+        <div class="rd-navbar-aside">
+
+          <!-- CONTACT INFO -->
+          <ul class="list-inline list-inline-xxl">
+            <li>
+              <div class="unit unit-spacing-xs">
+                <div class="unit-left"><span class="icon mdi mdi-map-marker"></span></div>
+                <div class="unit-body"><a href="#">382 NE 191st St, #92150 Miami, FL, 33179 USA</a></div>
+              </div>
+            </li>
+            <li>
+              <div class="unit unit-spacing-xs">
+                <div class="unit-left"><span class="icon mdi mdi-cellphone-android"></span></div>
+                <div class="unit-body"><a href="tel:+1-305-900-2001">+1-305-900-2001</a></div>
+              </div>
+            </li>
+            <li>
+              <div class="unit unit-spacing-xs">
+                <div class="unit-left"><span class="icon mdi mdi-email-outline"></span></div>
+                <div class="unit-body"><a href="mailto: info@dotcms.com">info@dotcms.com</a></div>
+              </div>
+            </li>
+          </ul>
+
+          <div>
+            <!-- CART -->
+            <a class="basket" href="/store/cart"><span class="icon mdi mdi-cart-outline"></span><span class="basket-count">3</span></a>
+
+            <!-- My Account -->
+            <a href="/login/profile" class="ml-3 dropdown-link" data-toggle="dropdown">
+                                    <img src="/html/images/persona/default-persona.png"  style="width:42px;" alt="Default Persona" class="img-circles border">
+                            </a>
+            <div class="dropdown-menu persona-menu">     
+                <a href="?com.dotmarketing.persona.id=0">
+                    <img src="/html/images/persona/default-persona.png"  style="width:33px;" class="img-circles border mr-2">
+                    Default
+                </a>
+                                <a href="/login/profile" class="my-account">Who Am I...?</a>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="rd-navbar-main-outer">
+        <div class="rd-navbar-main">
+
+          <div class="rd-navbar-panel">
+            <button class="rd-navbar-toggle" data-rd-navbar-toggle=".rd-navbar-nav-wrap" aria-label="Toggle Menu"><span></span></button>
+            <div class="rd-navbar-brand"><a class="brand" href="/" aria-label="TravelLux Home"><img class="brand-logo-dark" src="/application/themes/travel/images/logo.png" width="195" height="40" alt="TravelLux Home"></a></div>
+          </div>
+
+          <!-- NAV BAR -->
+
+          <div class="rd-navbar-main-element">
+
+            <div class="rd-navbar-nav-wrap">
+            
+                        
+              <ul class="rd-navbar-nav">
+                <li class="rd-nav-item  "><a class="rd-nav-link" href='/'>Home</a></li>
+                                                                      <li class="rd-nav-item "><a class="rd-nav-link" href='/blog' target='_self'>Travel Blog</a></li>
+                                                                        <li class="rd-nav-item "><a class="rd-nav-link" href='/destinations' target='_self'>Destinations</a></li>
+                                                                        <li class="rd-nav-item rd-navbar--has-dropdown rd-navbar-submenu ">
+                      <a href="/store" class="rd-nav-link">Store</a>
+                        <ul class="rd-menu rd-navbar-dropdown">
+                                                        <li class="rd-dropdown-item">
+                                <a class="rd-dropdown-link" href='/store/snow' target='_self'>Snow</a>
+                                                                                              </li>
+                                                        <li class="rd-dropdown-item">
+                                <a class="rd-dropdown-link" href='/store/outdoor' target='_self'>Outdoor</a>
+                                                                                              </li>
+                                                        <li class="rd-dropdown-item">
+                                <a class="rd-dropdown-link" href='/store/water' target='_self'>Water</a>
+                                                                                              </li>
+                                                        <li class="rd-dropdown-item">
+                                <a class="rd-dropdown-link" href='/store/apparel' target='_self'>Apparel</a>
+                                                                                              </li>
+                                                  </ul>
+                    </li>
+                                                                        <li class="rd-nav-item "><a class="rd-nav-link" href='/members' target='_self'>Members Only</a></li>
+                                                                        <li class="rd-nav-item "><a class="rd-nav-link" href='/contact-us' target='_self'>Contact Us</a></li>
+                                                </ul>
+            </div>
+
+            <!-- RD Navbar Search-->
+            <div class="rd-navbar-search">
+              <button class="rd-navbar-search-toggle rd-navbar-fixed-element-2" data-rd-navbar-toggle=".rd-navbar-search" aria-label="Search Box Toggle"><span></span></button>
+              <form class="rd-search" action="/search/" method="GET">
+                <div class="form-wrap">
+                  <label class="form-label search-label" for="site-search">Search...</label>
+                  <input class="rd-navbar-search-form-input form-input site-search" type="text" name="q" autocomplete="off">
+                </div>
+                <button class="rd-search-form-submit fa-search" type="submit" aria-label="Submit"></button>
+              </form>
+            </div>
+            
+          </div>
+        </div>
+      </div>
+    </nav>
+  </div>
+
+</header>
+    
+    <div class="body-wrapper">
+    
+            
+            
+                
+                        
+    
+                                                            
+                                                
+                                                                                                                        
+                        <section id="section-1" class="section fluid"><!-- section -->
+                            <div class="container"><!-- container -->
+                                <div class="row"><!-- row -->
+                        
+                                                
+                                                                                                
+                                    <div class=" col-lg-12  "><!-- Column -->
+                                                                                
+<div
+    >
+    <section class="section-single bg-overlay-60 novi-background context-dark" style="background-image: url(/dA/a4278a99-3889/1200w/30q/404-image.jpg); margin-bottom: -100px;">
+    <div class="section-single-inner">
+        <div class="section-single-main">
+            <div class="slide-title">404</div>
+            <h1 class="text-decoration-lines"><span>Sorry, But the Page Was</span><b class="d-block">Not Found</b></h1>
+            <p>You may have mistyped the address or the page may have moved.</p>
+            <div class="group-xl">
+                <a class="button button-primary button-leaf" href="/">Back to home page</a>
+                <a class="button button-white button-leaf" href="/contact-us">Contact us</a>
+            </div>
+        </div>
+    </div>
+</section>
+</div><div></div>
+                                    </div><!-- Column -->
+
+                                                        </div><!-- /row -->
+                            </div><!-- /container -->
+                        </section><!-- /section -->
+                                                                            
+                                                    </div><!-- /body-wrapper -->
+
+            <!-- Page Footer-->
+
+
+
+
+<footer class="footer-classic bg-footer bg-overlay-80 context-dark" style="background-image: url('/dA/716dcfa9-537d-419a-837f-73084a499cf3/fileAsset/1200w/50q/bg-footer.jpg')" >
+  <div class="section-xxl">
+    <div class="container">
+      <div class="row row-50 justify-content-center">
+        <div class="col-lg-4">
+          <h2>About us</h2>
+          <p class="max-width-xl-90 text-gray-400">We are TravelLux, a community of dedicated travel experts, journalists, and bloggers. Our aim is to offer you the best insight on where to go for your travel as well as to give you amazing opportunities with free benefits and bonuses for registered clients.</p>
+          <a class="footer-brand" href="./"><img src="/application/themes/travel/images/logo-inverse.png" alt="TravelLux Home" height="40"/></a>
+        </div>
+
+
+        <div class="col-sm-8 col-md-6 col-lg-4">
+          <h2>Latest blog posts</h2>
+          
+          <!-- Latest Blogs -->
+                      <div class="unit unit-spacing-lg">
+              <div class="unit-left"><a href="/blog/post/french-polynesia-everything-you-need-to-know"><img src="/dA/2b100ac7-07b1-48c6-8270-dc01ff958c69/image/70w/bora-bora-french-polynesia.jpeg" alt="French Polynesia Everything You Need to Know" width="70" height="70"></a></div>
+              <div class="unit-body">
+                <h6><a href="/blog/post/french-polynesia-everything-you-need-to-know">French Polynesia Everything You Need to Know</a></h6>
+                <time datetime="2019-09-19 9:59 PM">September 19, 2019</time>
+              </div>
+            </div>
+                      <div class="unit unit-spacing-lg">
+              <div class="unit-left"><a href="/blog/post/easy-snowboard-tricks-you-can-start-using-right-away"><img src="/dA/f1d378c9-b784-45d0-a43c-9790af678f13/image/70w/preview-2122.jpeg" alt="Easy Snowboard Tricks You can Start Using Right Away" width="70" height="70"></a></div>
+              <div class="unit-body">
+                <h6><a href="/blog/post/easy-snowboard-tricks-you-can-start-using-right-away">Easy Snowboard Tricks You can Start Using Right Away</a></h6>
+                <time datetime="2019-07-16 8:06 PM">July 16, 2019</time>
+              </div>
+            </div>
+                      <div class="unit unit-spacing-lg">
+              <div class="unit-left"><a href="/blog/post/5-snow-sports-to-try-this-winter"><img src="/dA/0edfee78-2a75-4f3d-bf20-813aae15d4e9/image/70w/outdoor-winter-sports-5a6e94fa1f4e130037158605.jpeg" alt="5 Snow Sports to Try This Winter" width="70" height="70"></a></div>
+              <div class="unit-body">
+                <h6><a href="/blog/post/5-snow-sports-to-try-this-winter">5 Snow Sports to Try This Winter</a></h6>
+                <time datetime="2019-07-12 6:15 PM">July 12, 2019</time>
+              </div>
+            </div>
+                    
+        </div>
+        <div class="col-sm-8 col-md-6 col-lg-4">
+          <h2>Get in touch</h2>
+          <form class="rd-form form-sm rd-mailform" data-form-output="form-output-global" data-form-type="contact" method="post" action="">
+            <div class="form-wrap">
+              <input class="form-input" id="footer-form-name" type="text" name="name" data-constraints="@Required">
+              <label class="form-label" for="footer-form-name">Name</label>
+            </div>
+            <div class="form-wrap">
+              <input class="form-input" id="footer-form-email" type="email" name="email" data-constraints="@Email @Required">
+              <label class="form-label" for="footer-form-email">E-mail</label>
+            </div>
+            <div class="form-wrap">
+              <label class="form-label" for="footer-form-message">Message</label>
+              <textarea class="form-input" id="footer-form-message" name="message" data-constraints="@Required"></textarea>
+            </div>
+            <div class="form-wrap">
+              <button class="button button-md button-primary" type="submit">Send</button>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="container">
+    <!-- Rights-->
+    <p class="rights mb-0"><span>©2012 - 2023 All Rights Reserved</span> <a href="https://dotcms.com/company/policies/privacy-policy">Terms of Use</a> <span>and</span> <a href="https://dotcms.com/company/policies/privacy-policy">Privacy Policy</a></p>
+  </div>
+</footer>
+
+<!-- Javascript-->
+<script src="/application/themes/travel/js/core.min.js"></script>
+<script src="/application/themes/travel/js/script.js"></script>
+
+    
+</body>
+</html>

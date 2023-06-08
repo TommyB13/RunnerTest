@@ -1,0 +1,9 @@
+HTTP/1.1 200 
+Strict-Transport-Security: max-age=3600;includeSubDomains
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+x-dot-server: unknown|6b5632748c
+Set-Cookie: JSESSIONID=D90AC4029AC63990E5A08C892E642E2D; Path=/; Secure; HttpOnly; SameSite=Lax
+
+[...truncated...]

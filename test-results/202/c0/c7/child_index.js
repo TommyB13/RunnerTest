@@ -1,0 +1,9 @@
+var child = [
+  { 'dupe': false, 'type': 4, 'name': 'category', 'dir': 'c0', 'linked': 2, 'url': 'http://44.192.48.141:8082/store/category/', 'fetched': false, 'error': 'Content not fetched', 'missing': false, 'csens': false, 'child_cnt': 1, 'issue_cnt': [ 0, 0, 0, 0, 0 ], 'sig': 0x0 },
+  { 'dupe': false, 'type': 4, 'name': 'products', 'dir': 'c1', 'linked': 2, 'url': 'http://44.192.48.141:8082/store/products/', 'fetched': false, 'error': 'Content not fetched', 'missing': false, 'csens': false, 'child_cnt': 10, 'issue_cnt': [ 0, 0, 0, 0, 0 ], 'sig': 0x0 },
+  { 'dupe': false, 'type': 32, 'name': 'apparel', 'dir': 'c2', 'linked': 2, 'url': 'http://44.192.48.141:8082/store/apparel', 'fetched': false, 'error': 'Content not fetched', 'missing': false, 'csens': false, 'child_cnt': 0, 'issue_cnt': [ 0, 0, 0, 0, 0 ], 'sig': 0x0 },
+  { 'dupe': false, 'type': 32, 'name': 'cart', 'dir': 'c3', 'linked': 2, 'url': 'http://44.192.48.141:8082/store/cart', 'fetched': false, 'error': 'Content not fetched', 'missing': false, 'csens': false, 'child_cnt': 0, 'issue_cnt': [ 0, 0, 0, 0, 0 ], 'sig': 0x0 },
+  { 'dupe': false, 'type': 32, 'name': 'outdoor', 'dir': 'c4', 'linked': 2, 'url': 'http://44.192.48.141:8082/store/outdoor', 'fetched': false, 'error': 'Content not fetched', 'missing': false, 'csens': false, 'child_cnt': 0, 'issue_cnt': [ 0, 0, 0, 0, 0 ], 'sig': 0x0 },
+  { 'dupe': false, 'type': 32, 'name': 'snow', 'dir': 'c5', 'linked': 2, 'url': 'http://44.192.48.141:8082/store/snow', 'fetched': false, 'error': 'Content not fetched', 'missing': false, 'csens': false, 'child_cnt': 0, 'issue_cnt': [ 0, 0, 0, 0, 0 ], 'sig': 0x0 },
+  { 'dupe': false, 'type': 32, 'name': 'water', 'dir': 'c6', 'linked': 2, 'url': 'http://44.192.48.141:8082/store/water', 'fetched': false, 'error': 'Content not fetched', 'missing': false, 'csens': false, 'child_cnt': 0, 'issue_cnt': [ 0, 0, 0, 0, 0 ], 'sig': 0x0 }
+];

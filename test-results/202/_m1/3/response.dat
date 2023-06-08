@@ -1,0 +1,20 @@
+HTTP/1.1 200 
+Strict-Transport-Security: max-age=3600;includeSubDomains
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+x-dot-server: unknown|6b5632748c
+Content-Disposition: inline; filename="wetsuit-1.jpg"
+Expires: Fri, 07 Jun 2024 15:29:05 +0000
+Cache-Control: public, max-age=31536000
+Last-Modified: Tue, 06 Jun 2023 20:21:11 +0000
+ETag: W/dot:7a31c745-9d0e-465d-b175-2f6ef43ce457:1686082871000:28618
+Accept-Ranges: bytes
+Content-Range: bytes 0-28617/28618
+Content-Type: image/jpeg
+Content-Length: 28618
+Date: Thu, 08 Jun 2023 15:29:05 GMT
+Keep-Alive: timeout=3
+Connection: keep-alive
+
+ÿØÿà

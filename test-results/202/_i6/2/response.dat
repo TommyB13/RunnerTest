@@ -1,0 +1,225 @@
+HTTP/1.1 200 
+Strict-Transport-Security: max-age=3600;includeSubDomains
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+x-dot-server: unknown|6b5632748c
+Set-Cookie: JSESSIONID=D90AC4029AC63990E5A08C892E642E2D; Path=/; Secure; HttpOnly; SameSite=Lax
+Set-Cookie: opvc=ebb66970-0751-4910-8f89-377f0bcbc63b; Path=/; Secure; HttpOnly; SameSite=Lax
+Set-Cookie: sitevisitscookie=1; Max-Age=153792000; Expires=Sat, 22-Apr-2028 15:12:10 GMT; Path=/; Secure; HttpOnly; SameSite=Lax
+Set-Cookie: dmid=948fbe16-bc9d-46e3-8a0d-9bd0c3e4bd76; Max-Age=153792000; Expires=Sat, 22-Apr-2028 15:12:10 GMT; Path=/; Secure; HttpOnly; SameSite=Lax
+Cache-Control: max-age=0
+vary: accept-encoding
+Content-Encoding: gzip
+Content-Type: text/html;charset=UTF-8
+Transfer-Encoding: chunked
+Date: Thu, 08 Jun 2023 15:12:17 GMT
+Keep-Alive: timeout=3
+Connection: keep-alive
+
+<!doctype html>
+<html lang="en">
+
+    <head>
+
+        
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, maximum-scale=5.0, user-scalable=1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta charset="utf-8">
+<link rel="icon" href="/application/themes/travel/images/favicon.ico" type="image/x-icon">
+<title>TravelLux - Your Destination for Exclusive Experiences</title>
+<meta name="description" content="dotCMS Content Management System demo site is used to demonstrates the features of our Hybrid CMS and best practices for building multi-channel web experiences">
+<meta name="language" content="english">
+<meta name="author" content="dotCMS">
+<meta name="copyright" content="dotCMS LLC, Miami Florida, US">
+<meta property="og:title" content="TravelLux - Your Destination for Exclusive Experiences">
+<meta property="og:url" content="https://demo.dotcms.com/">
+<meta property="og:image" content="/images/default.png">
+<link rel="canonical" href="https://demo.dotcms.com/">
+
+<!-- CSS -->
+<link rel="preload" as="style" href="//fonts.googleapis.com/css?family=Oswald:500,600,700%7CRoboto:300,300i,700%7CCondiment%7CDella+Respira">
+<link rel="preload" as="style" href="/application/themes/travel/css/styles.dotsass">
+<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Oswald:500,600,700%7CRoboto:300,300i,700%7CCondiment%7CDella+Respira">
+<link rel="stylesheet" href="/application/themes/travel/css/styles.dotsass">
+
+</head>
+
+<body id="home" >
+
+            <header>
+
+  <!-- RD Navbar-->
+  <div class="rd-navbar-wrap">
+    <nav class="rd-navbar rd-navbar-static rd-navbar-classic" data-layout="rd-navbar-fixed" data-sm-layout="rd-navbar-fixed" data-md-layout="rd-navbar-fixed" data-md-device-layout="rd-navbar-fixed" data-lg-layout="rd-navbar-static" data-lg-device-layout="rd-navbar-static" data-xl-layout="rd-navbar-static" data-xl-device-layout="rd-navbar-static" data-lg-stick-up-offset="78px" data-xl-stick-up-offset="98px" data-xxl-stick-up-offset="118px" data-lg-stick-up="true" data-xl-stick-up="true" data-xxl-stick-up="true">
+      <div class="rd-navbar-collapse-toggle rd-navbar-fixed-element-1" data-rd-navbar-toggle=".rd-navbar-collapse"><span></span></div>
+      
+      <div class="rd-navbar-aside-outer rd-navbar-collapse bg-default">
+        <div class="rd-navbar-aside">
+
+          <!-- CONTACT INFO -->
+          <ul class="list-inline list-inline-xxl">
+            <li>
+              <div class="unit unit-spacing-xs">
+                <div class="unit-left"><span class="icon mdi mdi-map-marker"></span></div>
+                <div class="unit-body"><a href="#">382 NE 191st St, #92150 Miami, FL, 33179 USA</a></div>
+              </div>
+            </li>
+            <li>
+              <div class="unit unit-spacing-xs">
+                <div class="unit-left"><span class="icon mdi mdi-cellphone-android"></span></div>
+                <div class="unit-body"><a href="tel:+1-305-900-2001">+1-305-900-2001</a></div>
+              </div>
+            </li>
+            <li>
+              <div class="unit unit-spacing-xs">
+                <div class="unit-left"><span class="icon mdi mdi-email-outline"></span></div>
+                <div class="unit-body"><a href="mailto: info@dotcms.com">info@dotcms.com</a></div>
+              </div>
+            </li>
+          </ul>
+
+          <div>
+            <!-- CART -->
+            <a class="basket" href="/store/cart"><span class="icon mdi mdi-cart-outline"></span><span class="basket-count">3</span></a>
+
+            <!-- My Account -->
+            <a href="/login/profile" class="ml-3 dropdown-link" data-toggle="dropdown">
+                                    <img src="/html/images/persona/default-persona.png"  style="width:42px;" alt="Default Persona" class="img-circles border">
+                            </a>
+            <div class="dropdown-menu persona-menu">     
+                <a href="?com.dotmarketing.persona.id=0">
+                    <img src="/html/images/persona/default-persona.png"  style="width:33px;" class="img-circles border mr-2">
+                    Default
+                </a>
+                                <a href="/login/profile" class="my-account">Who Am I...?</a>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="rd-navbar-main-outer">
+        <div class="rd-navbar-main">
+
+          <div class="rd-navbar-panel">
+            <button class="rd-navbar-toggle" data-rd-navbar-toggle=".rd-navbar-nav-wrap" aria-label="Toggle Menu"><span></span></button>
+            <div class="rd-navbar-brand"><a class="brand" href="/" aria-label="TravelLux Home"><img class="brand-logo-dark" src="/application/themes/travel/images/logo.png" width="195" height="40" alt="TravelLux Home"></a></div>
+          </div>
+
+          <!-- NAV BAR -->
+
+          <div class="rd-navbar-main-element">
+
+            <div class="rd-navbar-nav-wrap">
+            
+                        
+              <ul class="rd-navbar-nav">
+                <li class="rd-nav-item  active  "><a class="rd-nav-link" href='/'>Home</a></li>
+                                                                      <li class="rd-nav-item "><a class="rd-nav-link" href='/blog' target='_self'>Travel Blog</a></li>
+                                                                        <li class="rd-nav-item "><a class="rd-nav-link" href='/destinations' target='_self'>Destinations</a></li>
+                                                                        <li class="rd-nav-item rd-navbar--has-dropdown rd-navbar-submenu ">
+                      <a href="/store" class="rd-nav-link">Store</a>
+                        <ul class="rd-menu rd-navbar-dropdown">
+                                                        <li class="rd-dropdown-item">
+                                <a class="rd-dropdown-link" href='/store/snow' target='_self'>Snow</a>
+                                                                                              </li>
+                                                        <li class="rd-dropdown-item">
+                                <a class="rd-dropdown-link" href='/store/outdoor' target='_self'>Outdoor</a>
+                                                                                              </li>
+                                                        <li class="rd-dropdown-item">
+                                <a class="rd-dropdown-link" href='/store/water' target='_self'>Water</a>
+                                                                                              </li>
+                                                        <li class="rd-dropdown-item">
+                                <a class="rd-dropdown-link" href='/store/apparel' target='_self'>Apparel</a>
+                                                                                              </li>
+                                                  </ul>
+                    </li>
+                                                                        <li class="rd-nav-item "><a class="rd-nav-link" href='/members' target='_self'>Members Only</a></li>
+                                                                        <li class="rd-nav-item "><a class="rd-nav-link" href='/contact-us' target='_self'>Contact Us</a></li>
+                                                </ul>
+            </div>
+
+            <!-- RD Navbar Search-->
+            <div class="rd-navbar-search">
+              <button class="rd-navbar-search-toggle rd-navbar-fixed-element-2" data-rd-navbar-toggle=".rd-navbar-search" aria-label="Search Box Toggle"><span></span></button>
+              <form class="rd-search" action="/search/" method="GET">
+                <div class="form-wrap">
+                  <label class="form-label search-label" for="site-search">Search...</label>
+                  <input class="rd-navbar-search-form-input form-input site-search" type="text" name="q" autocomplete="off">
+                </div>
+                <button class="rd-search-form-submit fa-search" type="submit" aria-label="Submit"></button>
+              </form>
+            </div>
+            
+          </div>
+        </div>
+      </div>
+    </nav>
+  </div>
+
+</header>
+    
+    <div class="body-wrapper">
+    
+            
+            
+                
+                        
+    
+                                                            
+                                                
+                                                                                                                        
+                        <section id="section-1" class="section p-0 banner-tall"><!-- section -->
+                            <div class="container"><!-- container -->
+                                <div class="row"><!-- row -->
+                        
+                                                
+                                                                                                
+                                    <div class=" col-lg-12  banner-tall"><!-- Column -->
+                                                                                
+<!-- Container Code: /application/containers/defualt/banner.vtl -->
+
+    <div class="banner bg-image-full bg-overlay-30 context-dark" style="background-image: url('/dA/2e5d54e6-7ea3-4d72-8577-b8731b206ca0/image/1200w/50q/adventure-boat-exotic-1371360.jpg');">
+        <div class="container">
+            <div class="row justify-content-lg-center">
+                <div class="col-lg-9 text-center">
+                    <p
+                        class="banner-title"
+                                            >Explore the World</p>
+                    <h2 class="text-decoration-lines-2">
+                        <span
+                                                    >
+                            Look Great Doing it. Stock up on New Apparel!!
+                            <span class="text-decoration-line text-decoration-line-left"></span>
+                            <span class="text-decoration-line text-decoration-line-right"></span>
+                        </span>
+                    </h2>
+                    
+                                        <div class="group-lg">
+                        <a class="button button-primary button-leaf" href="/store/category/apparel/#products-title">20% Off - Shop Now</a>
+                    </div>
+                                    </div>
+            </div>
+        </div>
+    </div>
+<div></div>
+                                    </div><!-- Column -->
+
+                                                        </div><!-- /row -->
+                            </div><!-- /container -->
+                        </section><!-- /section -->
+                                                                                                                                                    
+                        <section id="section-2" class="section "><!-- section -->
+                            <div class="container"><!-- container -->
+                                <div class="row"><!-- row -->
+                        
+                                                
+                                                                                                
+                                    <div class=" col-lg-12  mt-70 booking-form"><!-- Column -->
+                                                                                
+<!-- Booking Form: /application/vtl/destinations/booking-form.vtl -->
+
+<div class="form-booking">
+    <h2>Book your holiday</h2>
+    <form class="rd-form rd-mailform rd-form-outside" novalidate="novalidate"
