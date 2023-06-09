@@ -1,0 +1,22 @@
+- Nikto v2.5.0
+---------------------------------------------------------------------------
++ Target IP:          127.0.0.1
++ Target Hostname:    localhost
++ Target Port:        8082
++ Start Time:         2023-06-09 15:46:48 (GMT0)
+---------------------------------------------------------------------------
++ Server: No banner retrieved
++ /: Uncommon header 'x-dot-server' found, with contents: unknown|9382e64826.
++ /xEqrugJ6.exe|dir: The X-Content-Type-Options header is not set. This could allow the user agent to render the content of the site in a different fashion to the MIME type. See: https://www.netsparker.com/web-vulnerability-scanner/vulnerabilities/missing-content-type-header/
++ No CGI Directories found (use '-C all' to force check all possible dirs)
++ /robots.txt: Uncommon header 'content-disposition' found, with contents: inline; filename="robots.txt".
++ OPTIONS: Allowed HTTP Methods: GET, HEAD, POST, PUT, DELETE, OPTIONS .
++ HTTP method ('Allow' Header): 'PUT' method could allow clients to save files on the web server.
++ HTTP method ('Allow' Header): 'DELETE' may allow clients to remove files on the web server.
++ /: Web Server returns a valid response with junk HTTP methods which may cause false positives.
++ /store/: This might be interesting.
++ /api/soap/?wsdl=1: Retrieved access-control-allow-origin header: *.
++ 7852 requests: 0 error(s) and 9 item(s) reported on remote host
++ End Time:           2023-06-09 15:58:06 (GMT0) (678 seconds)
+---------------------------------------------------------------------------
++ 1 host(s) tested
