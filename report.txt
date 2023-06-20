@@ -3,11 +3,11 @@
 + Target IP:          127.0.0.1
 + Target Hostname:    localhost
 + Target Port:        8082
-+ Start Time:         2023-06-20 18:56:54 (GMT0)
++ Start Time:         2023-06-20 19:10:49 (GMT0)
 ---------------------------------------------------------------------------
 + Server: No banner retrieved
-+ /: Uncommon header 'x-dot-server' found, with contents: unknown|9849f4ebf9.
-+ /wXEigTwH.pl|dir: The X-Content-Type-Options header is not set. This could allow the user agent to render the content of the site in a different fashion to the MIME type. See: https://www.netsparker.com/web-vulnerability-scanner/vulnerabilities/missing-content-type-header/
++ /: Uncommon header 'x-dot-server' found, with contents: unknown|9a24533a59.
++ /57y5DkSH.bat|dir: The X-Content-Type-Options header is not set. This could allow the user agent to render the content of the site in a different fashion to the MIME type. See: https://www.netsparker.com/web-vulnerability-scanner/vulnerabilities/missing-content-type-header/
 + No CGI Directories found (use '-C all' to force check all possible dirs)
 + /robots.txt: Uncommon header 'content-disposition' found, with contents: inline; filename="robots.txt".
 + OPTIONS: Allowed HTTP Methods: GET, HEAD, POST, PUT, DELETE, OPTIONS .
@@ -17,6 +17,6 @@
 + /store/: This might be interesting.
 + /api/soap/?wsdl=1: Retrieved access-control-allow-origin header: *.
 + 7851 requests: 0 error(s) and 9 item(s) reported on remote host
-+ End Time:           2023-06-20 19:02:19 (GMT0) (325 seconds)
++ End Time:           2023-06-20 19:16:17 (GMT0) (328 seconds)
 ---------------------------------------------------------------------------
 + 1 host(s) tested
