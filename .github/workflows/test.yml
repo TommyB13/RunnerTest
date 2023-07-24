@@ -7,20 +7,7 @@ on:
     - cron: '0 3 1,15 * *'
 
 jobs:
-#  start:
-#    runs-on: ubuntu-latest
-#    
-#    steps:
-#      - name: Start EC2 Instance
-#        run: |
-#          aws ec2 start-instances --instance-ids ${{secrets.AWS_EC2_INSTANCE_ID }}
-#        env:
-#          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
-#          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-#          AWS_DEFAULT_REGION: ${{ secrets.AWS_REGION }}
-
   scanner:
-#    needs: start
     runs-on: [self-hosted, linux, x64, ubuntu-server]
 
     steps:
